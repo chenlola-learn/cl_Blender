@@ -78,12 +78,14 @@ Change the preset view (4 methods)
 - [Numpad] or 
 - Click `gimzo` or
 - `~` or
-- `[alt]` + `Mouse Mid Drag`
+- `[alt]` + `<Mouse Mid Drag>`
 
 `Toggle [X-Ray]`  Can select point that was hide in.
 
 `Shift D` Duplicate
 
+`h` Hiding  
+`alt h` not hiding
 
 ## 2.1 Edit Mode
 
@@ -95,7 +97,23 @@ Change the preset view (4 methods)
 
 `p` Seperate
 
+`[Snap Tool]` to snap
+
+Select 2 vertices `e`  : extrude.
+
+### 2.1.1 Selecting
+
 `Ctrl` + `L` Select all connected to selected-Vertices.
+
+`a` Select all mesh  
+`alt + a`  DeSelect
+
+`alt` + `Mouse L` Click line to select the loop.
+
+`Ctrl i`  Invert Select  ( [Select] - [Invert] )
+
+
+select Mesh `mouse R - [Subdivide]` Mesh Level add subdivide
 
 ## 2.2 [Modifier Properities]
 
